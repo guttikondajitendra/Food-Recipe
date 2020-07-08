@@ -2,6 +2,14 @@
 Search recipes  for food 
 
 ### copy the folders 
-##cd folder
-##npm install
-##npm start
+
+
+## cd folder
+
+
+## npm install
+
+
+
+
+## npm start
