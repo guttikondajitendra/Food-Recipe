@@ -27,7 +27,7 @@
     "build": "webpack --mode production",
     "start": "webpack-dev-server --mode development --open",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d  build"
   },
   "author": "Jitendra Guttikonda",
   "license": "ISC"
